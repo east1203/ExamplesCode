@@ -1,0 +1,198 @@
+global coverage_group 0 tinyalu_pkg::coverage::op_cov __coverage_coverage.op_cov unused_coverage_op_cov_loop_label tinyalu_pkg 0 0 0 ( )
+ 1 1
+ 83 /home/IC/Desktop/UVMPrimer/mycodes/18_Put_and_Get_in_Action/tb_classes/coverage.svh
+ 23 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+ 6 op_set 25 0 0 0 69 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn 69 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 3 1 24 tinyalu_pkg::operation_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 10 1 1 1 0 1 1 12 single_cycle 26 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 3 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_0 0 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_1 0 0 0 0 0
+ 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_3 0 0 0 0 0 0 0
+ 1 1 0 0 1 1 11 multi_cycle 27 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 7 opn_rst 29 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_0 0 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_3 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 7 rst_opn 30 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_0 0 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_3 0 0 0 0 0
+ 1 4 1 0 1 1 8 sngl_mul 32 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_0 0 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_1 0 0 0 0 0
+ 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_3 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 8 mul_sngl 33 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_0 0 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_1 0 0 0 0 0
+ 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_3 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 6 twoops 35 0 4 0 0 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 4 0 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_5 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_0 0 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_3 0 0 0 0 0
+ 1 4 0 0 1 1 8 manymult 36 0 4 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 4 0 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_6 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_7 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 4 0 0 1 1 9 rstmulrst 38 0 4 0 -1 0 0 0 0 0 0 1 3 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 3 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_5 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 4 0 0 1 1 11 rstmulrstim 39 0 4 0 -1 0 0 0 0 0 0 1 3 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 2 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_5 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 tinyalu_pkg::coverage::zeros_or_ones_on_ops __coverage_coverage.zeros_or_ones_on_ops unused_coverage_zeros_or_ones_on_ops_loop_label tinyalu_pkg 0 0 0 ( )
+ 0 45 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+3
+0
+1
+ 7 all_ops 47 0 0 0 83 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn 83 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 3 1 24 tinyalu_pkg::operation_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 2 0 0 1 1 8 null_ops 48 0 2 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_0 0 0 0 0 0 0 0
+ 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_1 0 0 0 0 0 0 0
+
+ 5 a_leg 50 0 0 0 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_2 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 8 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 5 zeros 51 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_3 0 0 0 0 0 0 0
+ 1 1 0 0 1 1 6 others 52 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_4 0 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_5 0 0 0 0 0
+ 1 1 0 0 1 1 4 ones 53 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_6 0 0 0 0 0 0 0
+
+ 5 b_leg 56 0 0 0 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_7 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_7 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 8 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 5 zeros 57 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_3 0 0 0 0 0 0 0
+ 1 1 0 0 1 1 6 others 58 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_4 0 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_5 0 0 0 0 0
+ 1 1 0 0 1 1 4 ones 59 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_6 0 0 0 0 0 0 0
+
+ 8 op_00_FF 0 62 0 0 0 0 3 1 2 0 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 10 1 1 0 0 -1 0 0 1 1 6 add_00 64 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_8 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 add_FF 67 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_8 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 and_00 70 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_9 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 and_FF 73 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_9 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 xor_00 76 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_a 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 xor_FF 79 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_a 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 mul_00 82 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_b 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 mul_FF 85 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_b 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 7 mul_max 88 0 1 0 1 5 1 0 0 0 1 1 1 85 tinyalu_pkg_coverage_1_0::vcs_paramclassrepository_coverage_zeros_or_ones_on_ops_fn_b 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 2 0 0 -1 0 0 1 1 11 others_only 91 0 2 0 1 3 1 0 1 1 6 others 0 0 0 0 0 1 0 2 1 6 others 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group

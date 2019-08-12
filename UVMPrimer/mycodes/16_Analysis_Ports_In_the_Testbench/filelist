@@ -1,0 +1,9 @@
++incdir+$UVM_HOME/src
+$UVM_HOME/src/uvm_pkg.sv
+/home/IC/Desktop/UVMPrimer/dut/single_alu.v
+/home/IC/Desktop/UVMPrimer/dut/mul_alu.v
+/home/IC/Desktop/UVMPrimer/dut/tinyalu.v
+tinyalu_pkg.sv
+tinyalu_bfm.sv
++incdir+tb_classes
+top.sv

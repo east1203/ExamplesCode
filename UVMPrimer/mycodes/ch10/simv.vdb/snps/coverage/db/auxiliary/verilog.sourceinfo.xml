@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/home/IC/Desktop/UVMPrimer/mycodes/ch10"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="I-2014.03"  />
+      <fileinfo name="/home/IC/Desktop/UVMPrimer/dut/tinyalu.v"  id="2"  />
+      <fileinfo name="tb/tester.sv"  id="4"  />
+      <fileinfo name="tb/coverage.sv"  id="6"  />
+      <fileinfo name="tinyalu_bfm.sv"  id="8"  />
+      <fileinfo name="tinyalu_macros.sv"  id="10"  />
+      <fileinfo name="tb/testbench.sv"  id="7"  />
+      <fileinfo name="/home/IC/Desktop/UVMPrimer/dut/single_alu.v"  id="0"  />
+      <fileinfo name="top.sv"  id="9"  />
+      <fileinfo name="/home/IC/Desktop/UVMPrimer/dut/mul_alu.v"  id="1"  />
+      <fileinfo name="tb/scoreboard.sv"  id="5"  />
+      <fileinfo name="tinyalu_pkg.sv"  id="3"  />
+    </srcinfo>

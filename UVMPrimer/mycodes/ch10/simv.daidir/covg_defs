@@ -1,0 +1,192 @@
+global coverage_group 0 coverage::op_cov __coverage_coverage.op_cov unused_coverage_op_cov_loop_label tinyalu_pkg 0 0 0 ( )
+ 1 1
+ 54 /home/IC/Desktop/UVMPrimer/mycodes/ch10/tb/coverage.sv
+ 12 0 0 0 1 0 0 0 0  0
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+ 6 op_set 13 0 0 0 40 coverage::tinyalu_pkg_coverage_op_cov_fn 40 coverage::tinyalu_pkg_coverage_op_cov_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 3 1 24 tinyalu_pkg::operation_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 8 1 1 1 0 1 1 11 single_cyls 14 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 3 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_0 0 42 coverage::tinyalu_pkg_coverage_op_cov_fn_1 0 0 0 0 0
+ 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_3 0 0 0 0 0 0 0
+ 1 1 0 0 1 1 8 mul_cyls 15 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 6 op2rst 17 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_2 0 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_3 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 6 rst2op 18 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_3 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_2 0 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0
+ 1 4 1 0 1 1 8 sngl_mul 20 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_0 0 42 coverage::tinyalu_pkg_coverage_op_cov_fn_1 0 0 0 0 0
+ 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 8 mul_sngl 21 0 4 0 0 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+ 1 0 0 -1 4 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_0 0 42 coverage::tinyalu_pkg_coverage_op_cov_fn_1 0 0 0 0 0
+ 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_2 0 0 0 0 0 0 0
+ 1 4 1 0 1 1 8 doubleop 23 0 4 0 0 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 4 0 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_5 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_0 0 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0
+ 1 4 1 0 1 1 5 mulop 24 0 4 0 0 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 4 0 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_6 42 coverage::tinyalu_pkg_coverage_op_cov_fn_7 0 0 0 0 -1 0 0 -1 0 0 1 1 1 42 coverage::tinyalu_pkg_coverage_op_cov_fn_4 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 coverage::zeros_or_ones_on_ops __coverage_coverage.zeros_or_ones_on_ops unused_coverage_zeros_or_ones_on_ops_loop_label tinyalu_pkg 0 0 0 ( )
+ 0 30 0 0 0 1 0 0 0 0  0
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+3
+0
+1
+ 7 all_ops 31 0 0 0 54 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn 54 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 3 1 24 tinyalu_pkg::operation_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 2 0 0 1 1 2 ig 32 0 2 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_0 0 0 0 0 0 0 0
+ 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_1 0 0 0 0 0 0 0
+
+ 5 a_leg 34 0 0 0 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_2 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 8 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 4 ones 35 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_3 0 0 0 0 0 0 0
+ 1 1 0 0 1 1 6 others 36 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_4 0 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_5 0 0 0 0 0
+ 1 1 0 0 1 1 5 zeros 37 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_6 0 0 0 0 0 0 0
+
+ 5 b_leg 39 0 0 0 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_7 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_7 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 8 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 4 ones 40 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_3 0 0 0 0 0 0 0
+ 1 1 0 0 1 1 6 others 41 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_4 0 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_5 0 0 0 0 0
+ 1 1 0 0 1 1 5 zeros 42 0 1 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_6 0 0 0 0 0 0 0
+
+ 8 op_00_FF 0 44 0 0 0 0 3 0 1 2 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 10 1 1 0 0 -1 0 0 1 1 6 add_00 46 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_8 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 add_FF 49 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_8 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 and_00 52 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_9 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 and_FF 55 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_9 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 xor_00 58 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_a 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 xor_FF 61 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_a 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 mul_00 64 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_b 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 5 zeros 0 0 0 0 0 1 0 2 1 5 zeros 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 6 mul_FF 67 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_b 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 7 mul_max 70 0 1 0 1 5 1 0 0 0 1 1 1 56 coverage::tinyalu_pkg_coverage_zeros_or_ones_on_ops_fn_b 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 1 1 4 ones 0 0 0 0 0 1 0 2 1 4 ones 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 2 0 0 -1 0 0 1 1 5 other 71 0 2 0 1 3 1 0 1 1 6 others 0 0 0 0 0 1 0 2 1 6 others 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group

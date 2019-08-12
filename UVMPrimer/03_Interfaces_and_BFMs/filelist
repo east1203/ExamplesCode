@@ -1,0 +1,11 @@
++incdir+/home/IC/Desktop/UVMPrimer/dut
+/home/IC/Desktop/UVMPrimer/dut/single_alu.v
+/home/IC/Desktop/UVMPrimer/dut/mul_alu.v
+/home/IC/Desktop/UVMPrimer/dut/tinyalu.v
+tinyalu_pkg.sv
+tinyalu_bfm.sv
+tester.sv
+coverage.sv
+scoreboard.sv
+./top.sv
+

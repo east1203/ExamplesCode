@@ -1,0 +1,11 @@
+/home/IC/Desktop/UVMPrimer/dut/mul_alu.v
+/home/IC/Desktop/UVMPrimer/dut/single_alu.v
+/home/IC/Desktop/UVMPrimer/dut/tinyalu.v
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tb/coverage.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tb/scoreboard.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tb/testbench.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tb/tester.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tinyalu_bfm.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tinyalu_macros.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/tinyalu_pkg.sv
+/home/IC/Desktop/UVMPrimer/mycodes/ch10/top.sv

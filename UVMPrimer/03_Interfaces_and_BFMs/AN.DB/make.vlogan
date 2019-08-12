@@ -1,0 +1,37 @@
+
+VLOGAN	= vlogan
+VLOGAN_OPT	= -sverilog +v2k
+
+all :		_VCSgd_ExvyLc_1.db \
+	_VCSgd_tmm68c_1.db \
+	_VCSgd_qElMse_1.db \
+	_VCSgd_xoO0O_1.db \
+	_VCSgd_sYAkcb_1.db \
+	_VCSgd_nGFE7b_1.db \
+
+
+
+_VCSgd_ExvyLc_1.db :	tinyalu_pkg.sv 
+		${VLOGAN}  ${VLOGAN_OPT} tinyalu_pkg.sv
+
+
+_VCSgd_tmm68c_1.db :	tinyalu_bfm.sv 
+		${VLOGAN}  ${VLOGAN_OPT} tinyalu_bfm.sv
+
+
+_VCSgd_qElMse_1.db :	tester.sv 
+		${VLOGAN}  ${VLOGAN_OPT} tester.sv
+
+
+_VCSgd_xoO0O_1.db :	coverage.sv 
+		${VLOGAN}  ${VLOGAN_OPT} coverage.sv
+
+
+_VCSgd_sYAkcb_1.db :	scoreboard.sv 
+		${VLOGAN}  ${VLOGAN_OPT} scoreboard.sv
+
+
+_VCSgd_nGFE7b_1.db :	top.sv 
+		${VLOGAN}  ${VLOGAN_OPT} top.sv
+
+
