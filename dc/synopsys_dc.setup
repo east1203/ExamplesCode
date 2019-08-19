@@ -1,0 +1,26 @@
+#2019-01-15
+
+#remove previous design
+#remove_design -design
+#remove previous design and library
+#remove_design -all
+
+#preparing libraries
+
+
+lappend search_path [list "./../ref/liberty/1.1v" 			\
+							"./../ref/sdb"			\
+							"./../ref/tf"		\
+							"./../ref/tluplus/TD-LO40-XS-2008v0R_1PxM_1TM9k_ALPA28k/1P7M_1TM"		\
+							"./../src/iscas/rtl"		\
+							"./../src/rtl"
+					]
+set target_library "scc40nll_hdc40_hvt_tt_v1p1_25c_basic.db"
+set link_library "* scc40nll_hdc40_hvt_tt_v1p1_25c_basic.db "
+set symbol_library "scc40nll_hdc40_hvt.sdb"
+
+
+#check_library
+check_library > logs/check_lib.log
+
+
