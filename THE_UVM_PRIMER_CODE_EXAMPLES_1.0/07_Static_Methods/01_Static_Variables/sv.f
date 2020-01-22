@@ -1,2 +1,0 @@
-static_variables.sv
-
