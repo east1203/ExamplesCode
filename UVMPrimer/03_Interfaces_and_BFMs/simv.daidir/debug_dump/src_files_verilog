@@ -1,9 +1,0 @@
-/home/IC/Desktop/UVMPrimer/03_Interfaces_and_BFMs/coverage.sv
-/home/IC/Desktop/UVMPrimer/03_Interfaces_and_BFMs/scoreboard.sv
-/home/IC/Desktop/UVMPrimer/03_Interfaces_and_BFMs/tester.sv
-/home/IC/Desktop/UVMPrimer/03_Interfaces_and_BFMs/tinyalu_bfm.sv
-/home/IC/Desktop/UVMPrimer/03_Interfaces_and_BFMs/tinyalu_pkg.sv
-/home/IC/Desktop/UVMPrimer/03_Interfaces_and_BFMs/top.sv
-/home/IC/Desktop/UVMPrimer/dut/mul_alu.v
-/home/IC/Desktop/UVMPrimer/dut/single_alu.v
-/home/IC/Desktop/UVMPrimer/dut/tinyalu.v

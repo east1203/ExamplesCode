@@ -1,8 +1,0 @@
-/home/IC/Desktop/UVMPrimer/dut/single_alu.v
-/home/IC/Desktop/UVMPrimer/dut/mul_alu.v
-/home/IC/Desktop/UVMPrimer/dut/tinyalu.v
-+incdir+tb_classes
-tinyalu_pkg.sv
-tinyalu_bfm.sv
-./top.sv
-
